@@ -1,0 +1,28 @@
+# Core web framework
+flask==3.0.0
+gunicorn==21.2.0
+
+# Twilio for SMS/MMS
+twilio==8.11.0
+
+# Image processing and QR code handling
+Pillow==10.1.0
+pyzbar==0.1.9
+exifread==3.0.0
+
+# Web scraping and browser automation
+playwright==1.40.0
+selenium==4.16.0
+
+# Database
+sqlalchemy==2.0.23
+
+# AI/ML for classification
+anthropic==0.8.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# URL safety checking
+validators==0.22.0
